@@ -1,3 +1,9 @@
+# 補足
+今回のデモはポーリングを使って、リアルタイムでバックエンドからデータ取得したが、推奨しません。
+
+**Web Socket**通信を用いて、バックエンドから能動的にクライアントに送信する方法は**おすすめ**です。
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
